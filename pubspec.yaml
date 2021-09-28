@@ -21,6 +21,14 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  numberpicker: ^2.1.1
+  firebase_core: ^1.6.0
+  firebase_auth: ^3.1.0
+  firebase_storage: ^10.0.3
+  cloud_firestore: ^2.5.3
+  google_sign_in: ^5.0.7
+  provider: ^6.0.0
+  image_picker: ^0.8.4+2
   flutter:
     sdk: flutter
 
@@ -64,6 +72,9 @@ flutter:
     - family: Cookie
       fonts:
         - asset: fonts/Cookie-Regular.ttf
+    - family: MerriweatherSans
+      fonts:
+        - asset: fonts/MerriweatherSans.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

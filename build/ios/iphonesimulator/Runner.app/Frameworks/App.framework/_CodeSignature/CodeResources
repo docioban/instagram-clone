@@ -6,19 +6,19 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		Mq+wRuRJiH7IsTeur7zwrEDoks4=
+		2WH3EkzfNpYxRzEQezsUEM18s6A=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		fPlkVZLRsi26OTVR9gzLFazqn4s=
+		IJL4f0PrS1ynW41cW68VwsHwg0A=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		drDqIdCTlb1GAnXUNUT8Wrkv5BA=
+		4MOuktKgNrSOgKIlnqD4dUdfheI=
 		</data>
-		<key>flutter_assets/NOTICES</key>
+		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		jdYCxpR8sNalLuHpf2k195bMCm8=
+		kFDdxCOBOdAxid8EvuEJ96Q47Qg=
 		</data>
 		<key>flutter_assets/fonts/Cookie-Regular.ttf</key>
 		<data>
@@ -28,6 +28,10 @@
 		<data>
 		33xe6rFwPlxRnZOgZWsODADpUI4=
 		</data>
+		<key>flutter_assets/fonts/MerriweatherSans.ttf</key>
+		<data>
+		X6DVdLyf8tfXOXDC+iA7nBeHUO0=
+		</data>
 		<key>flutter_assets/images/.DS_Store</key>
 		<data>
 		vJxFVp/TNltybaa0nHsSse8HxD4=
@@ -36,13 +40,17 @@
 		<data>
 		UjQ6BnXetPRnnCCcum0PsXSfJQ8=
 		</data>
+		<key>flutter_assets/images/instagram_icon.png</key>
+		<data>
+		1+xzhzpd0CDczPUEF6blR4P1VoE=
+		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		ELluN2aQ5lXx4NZnJlBUXyZEfGo=
+		Xvnbl7IA3YGyKU7mVuzvUNB1lWc=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		lwL0ADAVsEojg+OJH1GEpyJupR4=
+		BGsLeUEWkEA+08I74zTnG6UfIDE=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -50,7 +58,7 @@
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		BICKLyZmEDX0yMJrQwYDz3tKwt8=
+		BrjwT9MTb5ek49SMeQQZlUSxkF0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -59,33 +67,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fPlkVZLRsi26OTVR9gzLFazqn4s=
+			IJL4f0PrS1ynW41cW68VwsHwg0A=
 			</data>
 			<key>hash2</key>
 			<data>
-			qaDWrzMtLKRL1pycpENCCqIS9/PbelTqBrET5nmwxAU=
+			qFGDlsquPqZ0YjFubVmNynFsWkCPmNaU5XeZqUnnEWA=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			drDqIdCTlb1GAnXUNUT8Wrkv5BA=
+			4MOuktKgNrSOgKIlnqD4dUdfheI=
 			</data>
 			<key>hash2</key>
 			<data>
-			DRfjuJgOK2rtbIbrJV0+w44lI6wzXp875/TJkIEXiPo=
+			ToD7c+1YYqImVGK7WiGhsWxAsCN1RJrylkgM0cDN0y8=
 			</data>
 		</dict>
-		<key>flutter_assets/NOTICES</key>
+		<key>flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jdYCxpR8sNalLuHpf2k195bMCm8=
+			kFDdxCOBOdAxid8EvuEJ96Q47Qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			wDbx7+1z+gbaB123ByeFGrMifHUT+XQo1v6PGb5TAZQ=
+			wVKro3razj+vH0JxzxlrVHswRpIaUMrMP7I29r4NUXU=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/Cookie-Regular.ttf</key>
@@ -110,6 +118,17 @@
 			0E0I/gLatnGI9y4elyWPSg2LWYJSPgLt6hMvgJD5+rQ=
 			</data>
 		</dict>
+		<key>flutter_assets/fonts/MerriweatherSans.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X6DVdLyf8tfXOXDC+iA7nBeHUO0=
+			</data>
+			<key>hash2</key>
+			<data>
+			iaMgcCDu3u1BjPQkArhr0+4/6lqEmYI43Z5Ec2y1nb8=
+			</data>
+		</dict>
 		<key>flutter_assets/images/avatar.jpg</key>
 		<dict>
 			<key>hash</key>
@@ -121,26 +140,37 @@
 			9leE5vgh7tZHWD444NGo4lzLbL2MhA2pSR/ZY+tU0vA=
 			</data>
 		</dict>
+		<key>flutter_assets/images/instagram_icon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1+xzhzpd0CDczPUEF6blR4P1VoE=
+			</data>
+			<key>hash2</key>
+			<data>
+			JVivLmPXKTFP6IuNyOTcPEZwKMwiW369xoKeiGHxXIA=
+			</data>
+		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ELluN2aQ5lXx4NZnJlBUXyZEfGo=
+			Xvnbl7IA3YGyKU7mVuzvUNB1lWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			d5Zhq5S+3ylGF8osqx2M/nYmzI/1w4FDUIjGiKWFaOc=
+			KApJyirFq2OFPQWy/LcWo9rfGQZqC9Sqtl5Qy0IesSo=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lwL0ADAVsEojg+OJH1GEpyJupR4=
+			BGsLeUEWkEA+08I74zTnG6UfIDE=
 			</data>
 			<key>hash2</key>
 			<data>
-			aobaandb4hS6uuFatIEqLbk39bWu17M43kOQDYygJ8g=
+			dQCdtTFph4SuIdNngvDUc9HYjbna7rVKE/mU3RSp934=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -158,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BICKLyZmEDX0yMJrQwYDz3tKwt8=
+			BrjwT9MTb5ek49SMeQQZlUSxkF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			dW/lW8/DGE7kqgVOIL22hio/M/WrH8+bodAoyvhyXsU=
+			tJb2vOUoHxBEiYyodLM5WZasLPyqw9R/aWb07nI0mp4=
 			</data>
 		</dict>
 	</dict>
